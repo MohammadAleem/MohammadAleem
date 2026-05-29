@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohammad Aleem 👋
 
-<!--
-**MohammadAleem/MohammadAleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Engineering Student | Building at the intersection of AI, Backend & Hardware
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Build
+- AI-powered systems (LLMs, agents, real-world integrations)
+- Backend APIs with Python & Flask
+- Hardware + Software projects (Arduino, embedded systems)
+
+### 🛠 Tech Stack
+Python • Flask • FastAPI • JavaScript • React • Arduino • Linux • Git
+
+### 📌 Current Focus
+Learning Docker & CI/CD to become a Backend + DevOps engineer--
+⚡ Always building something. Check my pinned repos below.
