@@ -1,17 +1,107 @@
 # Hi, I'm Mohammad Aleem 👋
 
-CSE Engineering Student | Building at the intersection of AI, Backend & Hardware
+> CSE Engineering Student | Backend Engineer + Cybersecurity | Python • Flask • Docker
 
 ---
 
-### 🔧 What I Build
-- AI-powered systems (LLMs, agents, real-world integrations)
-- Backend APIs with Python & Flask
-- Hardware + Software projects (Arduino, embedded systems)
+## 🚀 About Me
 
-### 🛠 Tech Stack
-Python • Flask • FastAPI • JavaScript • React • Arduino • Linux • Git
+- 🔭 Currently building secure backend systems and AI-powered applications
+- 🌱 Learning Docker, CI/CD, JWT Authentication and Cybersecurity concepts
+- 🎯 Target roles: Backend Engineer | Security Engineer
+- ⚡ I build systems that are not just functional but secure
 
-### 📌 Current Focus
-Learning Docker & CI/CD to become a Backend + DevOps engineer--
-⚡ Always building something. Check my pinned repos below.
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+
+
+
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+
+
+
+**Frontend**
+
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+
+**DevOps & Security**
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
+
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+
+
+**Hardware**
+
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+
+
+---
+
+## 🔐 Featured Projects
+
+### [Secure Auth API](https://github.com/MohammadAleem/secure-auth-api)
+Production-ready REST API with JWT authentication, bcrypt password hashing,
+rate limiting and security headers built with Flask and Docker.
+
+### [Resume Screening AI Agent](https://github.com/MohammadAleem/resume-screening-ai-agent)
+AI-powered resume screening system using LLaMA 3 via Groq API with Flask
+backend and real-time Arduino hardware feedback.
+
+### [BePresent App](https://github.com/MohammadAleem/bepresent-app)
+Focus and productivity app built with React featuring screen time management
+and deep work session tracking.
+
+---
+
+## 📊 GitHub Stats
+
+
+
+![Mohammad Aleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadAleem&show_icons=true&theme=dark&hide_border=true)
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAleem&layout=compact&theme=dark&hide_border=true)
+
+
+
+---
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohammadAleem&color=blue&style=flat)
